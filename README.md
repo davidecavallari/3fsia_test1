@@ -2,7 +2,6 @@
 
 Implementazione in python del seguente algoritmo:
 
-
 leggi x
 leggi y
 se x > 0 AND y > 0:
