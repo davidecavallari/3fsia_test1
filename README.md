@@ -1,6 +1,6 @@
 # Divisione tra due numeri
 
-Immplementiamo in python il seguente algoritmo:
+Implementiamo in python il seguente algoritmo, scritto in *pseudocodifica*:
 
 ```
 scrivi "Inserisci il numeratore: "
@@ -13,4 +13,9 @@ se b != 0:
     scrivi divisione
 altrimenti:
     scrivi "Errore: il denominatore non può essere zero.")
+```
+
+In python l'algoritmo si scrive così:
+```
+... TODO ...
 ```
