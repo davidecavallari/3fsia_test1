@@ -1,12 +1,16 @@
-# Test implementazione algoritmo moltiplicazione
+# Divisione tra due numeri
 
-Implementazione in python del seguente algoritmo:
+Immplementiamo in python il seguente algoritmo:
 
 ```
-leggi x
-leggi y
-se x > 0 AND y > 0:
-    risultato = x * y
+scrivi "Inserisci il numeratore: "
+leggi a
+scrivi "Inserisci il denominatore: "
+leggi b
+se b != 0:
+    divisione = a / b
+    scrivi "La divisione è: "
+    scrivi divisione
 altrimenti:
-    scrivi("Errore: avresti dovuto inserire due numeri positivi.")
+    scrivi "Errore: il denominatore non può essere zero.")
 ```
